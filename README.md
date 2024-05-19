@@ -62,10 +62,10 @@ insert into users values
 <img src="img/cmd-mysql.png">
 
 ### RUN PROGRAM :
-1. use the `npm run dev` command to run express as the babckend (API) or react as the frontend (client).
-2. in the API project use the Thunder Client extension to help see the results created from the API programme.
+1. use the `npm run dev` command to run express as the server-side (API) or react as the frontend (client).
+2. in the API Server use the Thunder Client extension to help see the results created from the API Server.
     <img src="img/thunder-client.png">
-3. on the Thunder Client adjust what method is used and then enter the endpoint that matches the API programme that has been created.
+3. on the Thunder Client adjust what method is used and then enter the endpoint that matches the API Server that has been created.
     <img src="img/result-api.png">
 4. in the React project as Frontend (Cliend-Side) make sure the target endpoint to the API is correct according to the programme that has been created.
 
