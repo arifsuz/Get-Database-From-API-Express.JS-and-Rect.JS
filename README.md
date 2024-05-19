@@ -59,6 +59,7 @@ insert into users values
 |  1 | Arif     |
 +----+----------+
 ```
+<img src="img/cmd-mysql.png">
 
 ### RUN PROGRAM :
 1. use the `npm run dev` command to run express as the babckend (API) or react as the frontend (client).
