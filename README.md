@@ -7,7 +7,7 @@
     <img src="img/xampp.png">
 - open cmd or use the shortcut on the keyboard by pressing the Windows + R keys then type CMD and ENTER.
 - then open the xampp > mysql > bin directory .
-- or use the following command: cd ../../xampp/mysql/bin.
+- or use the following command: `cd ../../xampp/mysql/bin`.
 - then enter the command: `mysql -u root` to enter MariaDB.
 - then create a database and create a user table then enter the user data.
 
